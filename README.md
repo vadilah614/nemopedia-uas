@@ -1,6 +1,12 @@
 # Nemopedia
 
-Nemopedia adalah aplikasi edukasi berbasis Android yang dikembangkan sebagai proyek UAS pada mata kuliah Pemrograman Bergerak. Aplikasi ini dirancang untuk memberikan akses informasi dan pembelajaran secara digital melalui perangkat mobile.
+Nemopedia adalah aplikasi edukasi berbasis Android yang dikembangkan sebagai proyek UAS pada mata kuliah Pemrograman Bergerak. Aplikasi ini dirancang untuk memberikan akses informasi dan pembelajaran secara digital melalui perangkat mobile. Aplikasi ini menyediakan antarmuka yang sederhana, navigasi yang mudah dipahami, serta fitur yang mendukung pengalaman belajar yang efektif.
+
+---
+
+## Tag Aplikasi
+
+education, learning, encyclopedia, student, mobile learning, android app
 
 ---
 
@@ -34,5 +40,38 @@ Proyek ini merupakan kelanjutan dari Proyek UTS hingga tahap siap publikasi.
 
 ## File Rilis Aplikasi
 
-File Android App Bundle (.aab) dapat ditemukan pada folder berikut:
+Android App Bundle (.aab) dapat diakses melalui link berikut:
+[Download App Bundle (.aab)](app/release/app-release.aab)
+
+---
+
+## Tampilan Aplikasi
+
+### Tampilan pada Perangkat Smartphone
+
+**Tampilan Utama**
+![Tampilan Utama - Phone](screenshots/Tampilan%20Utama.png)
+
+**Halaman Artikel**
+![Artikel - Phone](screenshots/Artikel.png)
+
+---
+
+### Tampilan pada Perangkat Tablet
+
+**Tampilan Utama**
+![Tampilan Utama - Tablet](screenshots/Tampilan%20Utama%202.png)
+
+**Halaman Artikel**
+![Artikel - Tablet](screenshots/Artikel%202.png)
+
+---
+
+## Icon Aplikasi
+
+Icon resmi aplikasi Nemopedia (512x512 PNG):
+
+![Icon Nemopedia](app/src/main/ic_launcher-playstore.png)
+
+
 
