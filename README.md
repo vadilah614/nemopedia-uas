@@ -45,6 +45,12 @@ Android App Bundle (.aab) dapat diakses melalui link berikut:
 
 ---
 
+## Video Demo Aplikasi
+
+[![Demo Video Nemopedia](https://img.youtube.com/vi/HlWemUrj0dw/0.jpg)](https://youtube.com/shorts/HlWemUrj0dw)
+
+---
+
 ## Tampilan Aplikasi
 
 ### Tampilan pada Perangkat Smartphone
