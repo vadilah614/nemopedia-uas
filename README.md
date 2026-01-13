@@ -73,5 +73,19 @@ Icon resmi aplikasi Nemopedia (512x512 PNG):
 
 ![Icon Nemopedia](app/src/main/ic_launcher-playstore.png)
 
+---
+
+## Kebijakan Privasi
+
+Kebijakan Privasi dapat diakses pada file berikut:
+[Privacy Policy](docs/privacy-policy.md)
+
+---
+
+## Kontak Developer
+
+Jika terdapat pertanyaan atau masukan, silakan hubungi: vdila615@gmail.com
+
+
 
 
